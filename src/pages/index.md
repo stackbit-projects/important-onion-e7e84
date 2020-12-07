@@ -52,10 +52,11 @@ sections:
         media_width: fifty
       - title: The Big Title For the Feature
         content: >-
-          The Virtual MBA is completely handcrafted for working professionals
-          and entrepreneurs who hustle full-time to help them gain that same
-          functional education of a traditional MBA through intensive curated
-          readings handpicked from the best busienss schools around the world. 
+          The **Virtual MBA** is completely handcrafted for working
+          professionals and entrepreneurs who hustle full-time to help them gain
+          that same functional education of a traditional MBA through intensive
+          curated readings handpicked from the best busienss schools around the
+          world. 
         actions:
           - label: Learn More
             url: /style-guide
