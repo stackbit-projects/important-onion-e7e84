@@ -52,12 +52,8 @@ sections:
         media_width: fifty
       - title: The Big Title For the Feature
         content: >-
-          The best way to educate yourself on business is by reading. You can
-          learn everything (and more) from the **Virtual MBA.** 
-
-
-          The program is completely handcrafted for working professionals and
-          entrepreneurs who hustle full-time to help them gain that same
+          The Virtual MBA is completely handcrafted for working professionals
+          and entrepreneurs who hustle full-time to help them gain that same
           functional education of a traditional MBA through intensive curated
           readings handpicked from the best busienss schools around the world. 
         actions:
