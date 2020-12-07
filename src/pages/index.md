@@ -23,7 +23,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: ' 60% of top CEOs in India do not have an MBA degree'
+      - title: ' 60% of top CEOs in India do not have an MBA degree.'
         subtitle: >-
           Goldman Sachs agrees spending over a fortune for a useless education —
           and putting yourself in debt for the next 10 years — is the wrong move
