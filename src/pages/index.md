@@ -4,12 +4,14 @@ sections:
   - type: hero_section
     title: 'MBA Education, Redefined. '
     subtitle: For the new normal.
-    content: >+
+    content: >-
       If you're a working professional or a serial entrepreneur huslting
       full-time and cannot afford the opportunity costs of an MBA degree, but
       your goal is to level up your business game with intensive readings and
       networking?
 
+
+      ###### **You're at the right place.**
     actions:
       - label: Try Free
         url: /pricing
