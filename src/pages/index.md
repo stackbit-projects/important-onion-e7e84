@@ -28,22 +28,6 @@ sections:
     subtitle: ''
     features:
       - title: The Big Title For the Feature
-        content: >-
-          The best way to educate yourself on business is by reading. You can
-          learn everything (and more) from the **Virtual MBA.** The program is
-          completely handcrafted for working professionals and entrepreneurs who
-          hustle full-time. 
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-2.png
-        media_position: left
-        media_width: fifty
-      - title: The Big Title For the Feature
         subtitle: 'An MBA degree comes with high opportunity costs. '
         content: >-
           It also requires a serious time commitment that many working
@@ -62,6 +46,22 @@ sections:
             icon_position: right
         image: images/classic/feature-3.png
         media_position: right
+        media_width: fifty
+      - title: The Big Title For the Feature
+        content: >-
+          The best way to educate yourself on business is by reading. You can
+          learn everything (and more) from the **Virtual MBA.** The program is
+          completely handcrafted for working professionals and entrepreneurs who
+          hustle full-time. 
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/classic/feature-2.png
+        media_position: left
         media_width: fifty
     feature_padding_vert: large
     align: center
