@@ -28,7 +28,10 @@ sections:
     subtitle: ''
     features:
       - title: The Big Title For the Feature
-        subtitle: 'An MBA degree comes with high opportunity costs. '
+        subtitle: >-
+          Goldman Sachs agrees spending over a fortune for a useless education —
+          and putting yourself in debt for the next 10 years — is the wrong move
+          for 95% of people.
         content: >-
           It also requires a serious time commitment that many working
           professionals and entrepreneurs simply cannot make.
