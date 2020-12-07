@@ -72,9 +72,10 @@ sections:
         media_width: fifty
       - title: The Big Title For the Feature
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          The best way to educate yourself on business is by reading. You can
+          learn everything (and more) from the Virtual MBA. The program is
+          completely handcrafted for working professionals and entrepreneurs who
+          hustle full-time. 
         actions:
           - label: Learn More
             url: /style-guide
