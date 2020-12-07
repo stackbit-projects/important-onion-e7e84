@@ -52,11 +52,13 @@ sections:
         media_width: fifty
       - title: The new normal of MBA
         content: >-
-          The **Virtual MBA** is completely handcrafted for working
-          professionals and entrepreneurs who hustle full-time to help them gain
-          that same functional education of a traditional MBA through intensive
-          curated readings handpicked from the best busienss schools around the
-          world. 
+          If you're a working professional or a serial entrepreneur huslting
+          full-time and cannot afford the opportunity costs of an MBA degree,
+          but your goal is to level up your business game with intensive
+          readings and networking?
+
+
+          ###### **You're at the right place.**
         actions:
           - label: Learn More
             url: /style-guide
