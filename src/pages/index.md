@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'MBA Education. Redefined. '
-    subtitle: Optional hero section subtitle
+    subtitle: For the new normal.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
