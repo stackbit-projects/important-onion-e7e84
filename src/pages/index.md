@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'MBA Education. Redefined. '
+    title: 'MBA Education, Redefined. '
     subtitle: For the new normal.
     content: >+
       If you're a working professional or a serial entrepreneur huslting
