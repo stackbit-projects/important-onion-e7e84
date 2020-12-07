@@ -16,9 +16,6 @@ sections:
       - label: Get Started
         url: /pricing
         style: primary
-      - label: ''
-        url: /features
-        style: primary
     image: images/classic/hero.png
     media_position: left
     media_width: fifty
