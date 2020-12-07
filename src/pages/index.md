@@ -58,7 +58,7 @@ sections:
         subtitle: >-
           Level up your business game with intensive readings and networking at
           a fraction of the cost what others pay hundreds of thousands for, over
-          two years.
+          two years of MBA degree.
     feature_padding_vert: large
     align: center
     background_color: secondary
