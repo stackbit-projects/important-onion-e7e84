@@ -28,14 +28,9 @@ sections:
           Goldman Sachs agrees spending over a fortune for a useless education —
           and putting yourself in debt for the next 10 years — is the wrong move
           for 95% of people.
-        content: >-
+        content: >
           It also requires a serious time commitment that many working
           professionals and entrepreneurs simply cannot make.
-
-
-          Fortunately, you can gain that same functional education through
-          intensive curated readings handpicked from the best busienss schools
-          around the world. 
         actions:
           - label: Learn More
             url: /style-guide
