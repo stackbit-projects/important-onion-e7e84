@@ -27,27 +27,6 @@ sections:
     title: The conventional MBA degree is a pointless waste of time.
     subtitle: Features Section Example
     features:
-      - title: An MBA degree is a pointless waste of time.
-        subtitle: >-
-          Goldman Sachs agrees spending over a fortune for a useless education —
-          and putting yourself in debt for the next 10 years — is the wrong move
-          for 95% of people.
-        content: >+
-          People for wanting to get an MBA have been duped into believing it’s
-          the best way to further their career in business. However, the first
-          lecture they learn in any B-School begins with the phrase "Management
-          cannot be taught." 
-
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-1.png
-        media_position: right
-        media_width: fifty
       - title: The Big Title For the Feature
         content: >-
           The best way to educate yourself on business is by reading. You can
