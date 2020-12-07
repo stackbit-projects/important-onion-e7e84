@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Reinventing the MBA for the new normal
+    title: Reinventing the MBA for the new normal.
     subtitle: For the new normal.
     content: >-
       Focused for working professionals and entrepreneurs who hustle full-time
