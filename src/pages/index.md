@@ -27,7 +27,7 @@ sections:
     title: The conventional MBA degree is a pointless waste of time.
     subtitle: ''
     features:
-      - title: ''
+      - title: The conventional MBA degree is a pointless waste of time.
         subtitle: >-
           Goldman Sachs agrees spending over a fortune for a useless education —
           and putting yourself in debt for the next 10 years — is the wrong move
