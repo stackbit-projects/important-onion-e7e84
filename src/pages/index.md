@@ -50,7 +50,7 @@ sections:
         image: images/classic/feature-3.png
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: 'The '
         content: >-
           The **Virtual MBA** is completely handcrafted for working
           professionals and entrepreneurs who hustle full-time to help them gain
