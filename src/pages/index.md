@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Reinvent the MBA for the 21st Century
+    title: Reinvent the MBA for the new normal
     subtitle: For the new normal.
     content: >-
       Focused for working professionals and entrepreneurs who hustle full-time
