@@ -60,6 +60,7 @@ sections:
         image: images/classic/feature-2.png
         media_position: left
         media_width: fifty
+        subtitle: The new normal of MBA
     feature_padding_vert: large
     align: center
     background_color: secondary
