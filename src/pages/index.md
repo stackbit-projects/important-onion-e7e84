@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: A MBA degree is a pointless waste of time.
+    title: 'MBA Education. Redefined. '
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
