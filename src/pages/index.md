@@ -53,11 +53,7 @@ sections:
         image: images/classic/feature-2.png
         media_position: left
         media_width: fifty
-        subtitle: >-
-          If you're a working professional or a serial entrepreneur huslting
-          full-time and cannot afford the opportunity costs of an MBA degree,
-          but your goal is to level up your business game with intensive
-          readings and networking?
+        subtitle: Level up your business game with intensive readings and networking?
     feature_padding_vert: large
     align: center
     background_color: secondary
