@@ -41,7 +41,9 @@ sections:
         image: images/classic/feature-3.png
         media_position: right
         media_width: fifty
-      - title: The new normal of MBA
+      - title: >-
+          The future belongs to those who learn more skills and combine them in
+          creative ways.
         content: '###### **You''re at the right place.**'
         actions:
           - label: Learn More
