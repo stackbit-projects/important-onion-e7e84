@@ -42,14 +42,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: The new normal of MBA
-        content: >-
-          If you're a working professional or a serial entrepreneur huslting
-          full-time and cannot afford the opportunity costs of an MBA degree,
-          but your goal is to level up your business game with intensive
-          readings and networking?
-
-
-          ###### **You're at the right place.**
+        content: '###### **You''re at the right place.**'
         actions:
           - label: Learn More
             url: /style-guide
