@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Reinventing the MBA for the new normal.
-    subtitle: For the new normal.
+    subtitle: '#VirtualMBA'
     content: >-
       Focused for working professionals and entrepreneurs who hustle full-time
       to help them gain that same functional education of a MBA through
