@@ -55,9 +55,16 @@ sections:
           and putting yourself in debt for the next 10 years — is the wrong move
           for 95% of people.
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          People for wanting to get an MBA have been duped into believing it’s
+          the best way to further their career in business. However, the first
+          lecture they learn in any B-School begins with the phrase "Management
+          cannot be taught." 
+
+
+          The best way to educate yourself on business is by reading. You can
+          learn everything (and more) from the Virtual MBA. The program is
+          completely handcrafted for working professionals and entrepreneurs who
+          hustle full-time. 
         actions:
           - label: Learn More
             url: /style-guide
