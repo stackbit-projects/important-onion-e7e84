@@ -21,7 +21,7 @@ sections:
     background_color: primary
   - type: features_section
     title: ''
-    subtitle: ' 60% of top CEOs in India do not have an MBA degree'
+    subtitle: ''
     features:
       - title: The conventional MBA degree is a pointless waste of time.
         subtitle: >-
