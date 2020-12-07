@@ -27,7 +27,7 @@ sections:
     title: Features Section
     subtitle: Features Section Example
     features:
-      - title: An MBA degree is a pointless waste of time.
+      - title: ''
         subtitle: >-
           Goldman Sachs agrees spending over a fortune for a useless education —
           and putting yourself in debt for the next 10 years — is the wrong move
