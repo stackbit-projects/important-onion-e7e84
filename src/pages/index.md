@@ -25,7 +25,7 @@ sections:
     background_color: primary
   - type: features_section
     title: The conventional MBA degree is a pointless waste of time.
-    subtitle: Features Section Example
+    subtitle: ''
     features:
       - title: The Big Title For the Feature
         content: >-
