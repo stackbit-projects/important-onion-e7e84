@@ -7,8 +7,7 @@ sections:
     content: >-
       Focused for working professionals and entrepreneurs who hustle full-time
       to help them gain that same functional education of a MBA through
-      intensive curated readings handpicked from the best business schools
-      around the world. 
+      intensive curated readings handpicked from the best business schools. 
     actions:
       - label: Get Started
         url: /pricing
