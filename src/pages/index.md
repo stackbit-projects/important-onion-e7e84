@@ -24,7 +24,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Features Section
+    title: An MBA degree is a pointless waste of time.
     subtitle: Features Section Example
     features:
       - title: An MBA degree is a pointless waste of time.
