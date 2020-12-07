@@ -5,13 +5,10 @@ sections:
     title: 'MBA Education, Redefined. '
     subtitle: For the new normal.
     content: >-
-      If you're a working professional or a serial entrepreneur huslting
-      full-time and cannot afford the opportunity costs of an MBA degree, but
-      your goal is to level up your business game with intensive readings and
-      networking?
-
-
-      ###### **You're at the right place.**
+      Focused for working professionals and entrepreneurs who hustle full-time
+      to help them gain that same functional education of a MBA through
+      intensive curated readings handpicked from the best busienss schools
+      around the world. 
     actions:
       - label: Get Started
         url: /pricing
