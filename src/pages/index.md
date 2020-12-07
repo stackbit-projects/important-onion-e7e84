@@ -50,7 +50,10 @@ sections:
     subtitle: Features Section Example
     features:
       - title: A MBA degree is a pointless waste of time.
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          Goldman Sachs agrees spending over a fortune for a useless education —
+          and putting yourself in debt for the next 10 years — is the wrong move
+          for 95% of people.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
