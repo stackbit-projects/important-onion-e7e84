@@ -23,7 +23,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: ' 60% of top CEOs in India do not have an MBA degreeThe conventional MBA degree is a pointless waste of time.'
+      - title: ' 60% of top CEOs in India do not have an MBA degree'
         subtitle: >-
           Goldman Sachs agrees spending over a fortune for a useless education —
           and putting yourself in debt for the next 10 years — is the wrong move
