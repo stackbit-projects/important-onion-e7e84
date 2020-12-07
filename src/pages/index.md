@@ -89,9 +89,8 @@ sections:
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
-          An MBA degree comes with high opportunity costs. It also requires a
-          serious time commitment that many working professionals and
-          entrepreneurs simply cannot make.
+          It also requires a serious time commitment that many working
+          professionals and entrepreneurs simply cannot make.
 
 
           Fortunately, you can gain that same functional education through
