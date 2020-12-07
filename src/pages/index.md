@@ -51,9 +51,9 @@ sections:
     features:
       - title: A MBA degree is a pointless waste of time.
         subtitle: >-
-          Goldman Sachs agrees spending over a fortune for a useless education —
-          and putting yourself in debt for the next 10 years — is the wrong move
-          for 95% of people.
+          For a overwhelming majority spending over a fortune for a useless
+          education — and putting yourself in debt for the next 10 years — is
+          the wrong move for 95% of people.
         content: >-
           People for wanting to get an MBA have been duped into believing it’s
           the best way to further their career in business. However, the first
