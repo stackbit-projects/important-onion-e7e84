@@ -13,7 +13,7 @@ sections:
 
       ###### **You're at the right place.**
     actions:
-      - label: Try Free
+      - label: Get Started
         url: /pricing
         style: primary
       - label: Learn More
