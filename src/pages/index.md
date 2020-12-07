@@ -53,7 +53,10 @@ sections:
         image: images/classic/feature-2.png
         media_position: left
         media_width: fifty
-        subtitle: Level up your business game with intensive readings and networking?
+        subtitle: >-
+          Level up your business game with intensive readings and networking at
+          a fraction of the cost what others pay hundreds of thousands for, over
+          two years.
     feature_padding_vert: large
     align: center
     background_color: secondary
