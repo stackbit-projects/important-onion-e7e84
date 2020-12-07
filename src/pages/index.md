@@ -5,9 +5,9 @@ sections:
     title: Reinventing the MBA for the new normal.
     subtitle: For working professionals and entrepreneurs who hustle full-time.
     content: >-
-      Gain functional education through intensive readings handpicked from the
-      best business schools and network with like minded community to level up
-      your career. 
+      Gain access to functional education through intensive readings handpicked
+      from the best business schools and network with like minded community to
+      level up your career. 
     actions:
       - label: Get Started
         url: /pricing
