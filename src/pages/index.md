@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'MBA Education, Redefined. '
+    title: Reinvent the MBA for the 21st Century
     subtitle: For the new normal.
     content: >-
       Focused for working professionals and entrepreneurs who hustle full-time
